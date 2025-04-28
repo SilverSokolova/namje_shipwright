@@ -1,10 +1,10 @@
 {
   "itemName" : "namje_cargobox",
   "shortdescription" : "Leftover Cargo",
-  "description" : "Leftover cargo scrounged from your previous ship thrown into a box. Use to open. ^red;This may drop a lot of items.^reset;",
+  "description" : "Leftover cargo scrounged from your previous ship. ^red;This may drop a lot of items.^reset;",
   "price" : 1,
-  "rarity" : "common",
-  "category" : "tool",
+  "rarity" : "legendary",
+  "category" : "mysteriousReward",
   "itemTags" : [],
   "inventoryIcon" : "namje_cargobox.png",
   "twoHanded" : true,
