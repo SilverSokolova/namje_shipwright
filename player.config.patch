@@ -2,6 +2,13 @@
   [
     { 
       "op" : "add",
+      "path" : "/namje_shipwright",
+      "value" : true
+    }
+  ],
+  [
+    { 
+      "op" : "add",
       "path" : "/deploymentConfig/scripts/-",
       "value" : "/scripts/namje_init.lua"
     },
